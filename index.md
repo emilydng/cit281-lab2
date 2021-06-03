@@ -1,8 +1,9 @@
 ## Lab 2
 
-### Goals and Outcomes
 
 ```markdown
+Goals and Outcomes
+
   -  Use CLI commands for directory and file manipulation
   -  Use CLI commands for git commands
   -  New git repository
