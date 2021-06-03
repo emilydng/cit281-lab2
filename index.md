@@ -16,8 +16,12 @@ Goals and Outcomes
   -  Branch
   -  Repo files
 
+```
+
 Lab-02-node.js
- 
+
+```rouge
+
   `/*
     CIT 281 Lab 2
     Name: Emily Deng
